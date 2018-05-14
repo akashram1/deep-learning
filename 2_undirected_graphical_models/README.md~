@@ -1,4 +1,4 @@
-### Restricted Boltzmann Machine
+## Restricted Boltzmann Machine
 
 1. Go the main function of rbm.py
 2. Change the data_folder argument to the path to the 3 data input files without a tailing '/'
@@ -24,7 +24,7 @@ results_file is the path to the hdf5 file in which the results of this process a
 
 The parameters are self explanatory. Set suppress_ouput to True for the losses to be displayed every epoch.
                
-### Autoencoder and Denoising Autoencoder
+## Autoencoder and Denoising Autoencoder
 1. Go to the main function of autoencoder.py
 2. Same as RBM
 3. Initialize the AE
