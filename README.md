@@ -9,6 +9,7 @@ Implementations of language models, undirected graphical models etc.
   - Read this [README](https://github.com/akashram1/deep-learning/tree/master/2_undirected_graphical_models/README.md)
   - Restricted Boltzmann Machines 
   - Autoencoder and Denoising Autoencoders
-  - Results and Analysis in 
+  - Results and Analysis [here](https://github.com/akashram1/deep-learning/blob/master/2_undirected_graphical_models/undirected_graphical_models.ipynb) 
+
 ### Language Models
   - Basic Language MLP [here](https://github.com/akashram1/deep-learning/tree/master/3_language_models/project/mlp.py) 
