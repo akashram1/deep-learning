@@ -52,3 +52,4 @@ ae.train(trn_data=trn_data,
   ````
 
 - Note that an Autoencoder becomes a Denoising Autoencoder for > 0 values of dropout. Dropout is a fraction between 0 and 1.
+
