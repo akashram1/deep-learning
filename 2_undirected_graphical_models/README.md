@@ -1,10 +1,11 @@
 ## Restricted Boltzmann Machine
 
 1. Go the main function of rbm.py
-2. Change the data_folder argument to the path to the 3 data input files without a tailing '/'
-'''
+2. Change the data_folder argument to the path to the 3 data input files without a tailing '/'.
+
+```
 trn_data, _, vldn_data, _, test_data, _ = dr.DataRetriever.get_data(data_folder='data')
-'''
+```
 
 3.Initialize the RBM
 rbm1 = rbm.RBM(h_count=100, v_count=x_train.shape[1], random_seed=2017, results_file=rbm_results_path + 'rbm1.hdf5')
