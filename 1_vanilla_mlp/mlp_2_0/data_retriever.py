@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class DataRetriever(object):
 
     @staticmethod

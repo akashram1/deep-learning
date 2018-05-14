@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-from project import nn_building_blocks as nbb
-from project import data_retriever as dr
+import nn_building_blocks as nbb
+import data_retriever as dr
 
 
 class NN(object):

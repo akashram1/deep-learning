@@ -18,3 +18,5 @@
 3_language_models/project/\.Rhistory
 
 *.md~
+
+*.py~
